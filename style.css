@@ -16,4 +16,17 @@
 
 /************************* YOUR SETTINGS *************************/
 
-/* add your css here, feel free to use comments and order them logically for better readability */
+wrapper{
+   backround-color: #005BAA;
+}
+
+nav a{
+   text-decoration: none;
+   display: inline-block;
+   text-align: center;
+   line-height: 75px;
+   font-weight: bold
+   color: black; 
+   font-family: roboto;
+   
+   
