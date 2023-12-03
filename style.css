@@ -16,7 +16,7 @@
 
 /************************* YOUR SETTINGS *************************/
 
-wrapper{
+#wrapper{
    background-color: #005BAA;
   margin: auto;
   width: 100%;
@@ -29,8 +29,12 @@ nav a{
    line-height: 75px;
    font-weight: bold;
    color: black;
-   width:30%;
+   width: 300px;
   height: 100px;
+  padding-top: none;
+}
+a:hover{
+  background-color: white;
 }
 
 nav{
@@ -40,6 +44,20 @@ nav{
 }
 
 a img{
-  padding-top:.25%;
+  padding-top: 5px;
   padding-left:.25%;
+  
 }
+
+iframe{
+  float: right;
+  padding-top: none;
+}
+
+article a{
+  text-decoration: none;
+  color: black;
+  background-color: #f47222;
+  padding: 1%;
+}
+
