@@ -17,73 +17,84 @@
 /************************* YOUR SETTINGS *************************/
 
 #wrapper{
-   background-color: #005BAA;
-  margin: auto;
-  width: 100%;
+  background-color: #005BAA;
+ margin: auto;
+ width: 100%;
 }
 
 nav a{
-   text-decoration: none;
-   display: inline-block;
-   text-align: center;
-   line-height: 75px;
-   font-weight: bold;
-   color: black;
-   width: 300px;
-  height: 100px;
-  padding-top: none;
+  text-decoration: none;
+  display: inline-block;
+  text-align: center;
+  line-height: 75px;
+  font-weight: bold;
+  color: black;
+  width: 300px;
+ height: 100px;
+ padding-top: none;
 }
 nav a:hover{
-  background-color: white;
+ background-color: white;
 }
 
 nav{
-   width: 100%;
-  height: 2%;
-   background-color: #F47222;
+  width: 100%;
+ height: 2%;
+  background-color: #F47222;
 }
 
 a img{
-  padding-top: 5px;
-  padding-left:.25%;
-  
+ padding-top: 5px;
+ padding-left:.25%;
+ 
 }
 
 iframe{
-  float: right;
-  padding-top: none;
+ float: right;
+ padding-top: none;
 }
 
 article a{
-  text-decoration: none;
-  color: black;
-  background-color: #f47222;
-  padding: 1%;
+ text-decoration: none;
+ color: black;
+ background-color: #f47222;
+ padding: 1%;
 }
 
 article{
-  background-color: #FFFFFF;
+ background-color: #FFFFFF;
 }
 
 footer{
-  float: left;
-  background-color: #282828;
-  width: 100%;
-  color: white
+ float: left;
+ background-color: #282828;
+ width: 100%;
+ color: white
 }
 
 footer a{
-  text-decoration: none;
-  color: white;
+ text-decoration: none;
+ color: white;
 }
 
 footer a:hover{
-  text-decoration: underline;
+ text-decoration: underline;
 }
 
-footer {
-  float: right;
-  
+#LogoFooter{
+ padding-left: 2.5%;
+ padding-top: 2.5%;
+ width: 5%;
+ height: auto;
 }
 
+#ContactMakers{
+ float: right;
+ padding-right: 10%;
+}
 
+#ContactFTC{
+ Float: right;
+ text-align: center;
+ padding-top: none;
+}
