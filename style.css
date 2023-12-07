@@ -43,6 +43,10 @@ nav{
   background-color: #F47222;
 }
 
+nav img{
+  float: left;
+}
+
 a img{
  padding-top: 5px;
  padding-left:.25%;
