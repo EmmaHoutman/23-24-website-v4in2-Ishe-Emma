@@ -32,8 +32,9 @@ nav a{
   width: 20%;
  height: 100px;
  padding-top: none;
- size: 10%;
+ size: 10px;
 }
+
 nav a:hover{
  text-decoration: underline #005BAA;
 }
