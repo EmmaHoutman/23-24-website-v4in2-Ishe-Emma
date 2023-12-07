@@ -34,7 +34,7 @@ nav a{
  padding-top: none;
 }
 nav a:hover{
- background-color: white;
+ text-decoration: underline #005BAA;
 }
 
 nav{
