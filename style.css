@@ -94,13 +94,13 @@ footer a:hover{
  height: auto;
 }
 
-#Contact makers{
- float: right;
- padding-right: 10%;
-}
-
 #ContactFTC{
  Float: right;
  text-align: center;
  padding-top: none;
 }
+
+#ContactMakers{
+  float: right;
+  padding-right: 10%;
+ }
