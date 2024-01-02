@@ -66,14 +66,14 @@ a img{
 
 .top-left {
   position: absolute;
-  top: 5%;
+  top: 10%;
   left: 5%; 
   font-size: 300%;
 }
 
 .bottom-left {
   position: absolute;
-  bottom: 72.5%;
+  bottom: 77.5%;
   left: 6%;
   font-size: 200%;
 }
