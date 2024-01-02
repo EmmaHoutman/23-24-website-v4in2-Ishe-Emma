@@ -62,13 +62,13 @@ a img{
   text-align: center;
   color: white;
   font-weight: bolder;
-  font-size: 100%;
 }
 
 .top-left {
   position: absolute;
   top: 8px;
   left: 16px; 
+  font-size: 110%;
 }
 
 iframe{
