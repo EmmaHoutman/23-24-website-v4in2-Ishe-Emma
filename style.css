@@ -36,7 +36,9 @@ nav a{
 }
 
 nav a:hover{
- text-decoration: underline #005BAA;
+ text-decoration: underline  #005BAA;
+ underline: bold;
+
 }
 
 nav{
