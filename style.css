@@ -89,7 +89,6 @@ footer a:hover{
 
 #LogoFooter{
  padding-left: 2.5%;
- padding-top: 2.5%;
  width: 5%;
  height: auto;
  float: left;
@@ -98,13 +97,13 @@ footer a:hover{
 #ContactFTC{
  Float: right;
  text-align: center;
- padding-top: none;
+ padding-top: 2%;
  padding-right: 10%;
  padding-bottom: 2%;
 }
 
 #ContactMakers{
   float: right;
-  padding-right: 30%;
+  padding-right: 32%;
   text-align: center;
  }
