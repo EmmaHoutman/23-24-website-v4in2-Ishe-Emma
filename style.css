@@ -64,7 +64,7 @@ a img{
   font-weight: bolder;
 }
 
-#top-left {
+.top-left {
   position: absolute;
   top: 8px;
   left: 16px; 
