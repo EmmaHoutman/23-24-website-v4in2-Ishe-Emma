@@ -66,16 +66,17 @@ a img{
 
 .top-left {
   position: absolute;
-  top: 10%;
+  top: 5%;
   left: 5%; 
   font-size: 250%;
 }
 
 .bottom-left {
   position: absolute;
-  bottom: 20%;
+  bottom: 10%;
   left: 5%;
   font-size: 200%;
+  color: black;
 }
 
 iframe{
