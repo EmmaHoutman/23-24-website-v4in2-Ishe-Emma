@@ -68,7 +68,7 @@ a img{
   position: absolute;
   top: 5%;
   left: 5%; 
-  font-size: 250%;
+  font-size: 300%;
 }
 
 .bottom-left {
@@ -76,7 +76,6 @@ a img{
   bottom: 10%;
   left: 5%;
   font-size: 200%;
-  color: black;
 }
 
 iframe{
