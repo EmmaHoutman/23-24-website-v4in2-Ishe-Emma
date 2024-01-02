@@ -68,14 +68,14 @@ a img{
   position: absolute;
   top: 10%;
   left: 5%; 
-  font-size: 300%;
+  font-size: 350%;
 }
 
 .bottom-left {
   position: absolute;
   bottom: 67.5%;
   left: 6%;
-  font-size: 200%;
+  font-size: 250%;
 }
 
 iframe{
