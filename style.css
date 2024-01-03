@@ -95,12 +95,13 @@ article a{
  color: black;
  background-color: #f47222;
  padding: 1%;
+ float: right;
 }
 
 article{
  background-color: #FFFFFF;
  padding-bottom: 10%;
- padding-top: 3%;
+ padding-top: 2%;
 }
 
 footer{
