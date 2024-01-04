@@ -100,7 +100,7 @@ article a{
 article p{
  background-color: #FFFFFF;
  padding-bottom: 10%;
- clear: both;
+  float:left;
  padding-left: 5%;
 }
 
