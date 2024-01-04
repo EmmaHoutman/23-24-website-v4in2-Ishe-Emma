@@ -103,6 +103,9 @@ article{
  padding-top: 2%;
  padding-left: 5%;
 }
+article iframe{
+  float: right;
+}
 
 footer{
  float: left;
