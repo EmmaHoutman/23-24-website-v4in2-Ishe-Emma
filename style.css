@@ -97,11 +97,11 @@ article a{
  padding: 1%;
 }
 
-article{
+article p{
  background-color: #FFFFFF;
  padding-bottom: 10%;
  padding-top: 2%;
- padding-left: 5%;
+are clear: both;
 }
 article iframe{
   float: right;
@@ -109,6 +109,10 @@ article iframe{
 
 article h1{
   float: left;
+  background-color: #FFFFFF;
+  padding-bottom: 10%;
+  padding-top: 2%;
+  padding-left: 5%;
 }
 
 footer{
