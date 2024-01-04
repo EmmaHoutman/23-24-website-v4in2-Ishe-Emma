@@ -107,6 +107,10 @@ article iframe{
   float: right;
 }
 
+article h1{
+  float: left;
+}
+
 footer{
  float: left;
  background-color: #282828;
