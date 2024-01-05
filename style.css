@@ -102,16 +102,13 @@ article{
  padding-bottom: 10%;
  float:left;
  padding-left: 5%;
+ padding-top: 2%;
 }
 
 article iframe{
   float: right;
 }
 
-article h1{
-  background-color: #FFFFFF;
-  padding-top: 2%;
-}
 
 #article2{
   background-color: white;
