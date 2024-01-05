@@ -118,7 +118,7 @@ hr{
   padding-top: 3%;
 }
 
-#centerstage p{
+#centerstage p, h1{
   float: right;
 }
 
