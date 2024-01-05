@@ -119,11 +119,11 @@ hr{
 }
 
 #centerstage p{
-  text-align: right;
+  float: right;
 }
 
 #centerstage h1{
-text-align: right;
+float: right;
 }
 
 
