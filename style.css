@@ -127,6 +127,10 @@ hr{
   float: left;
 }
 
+.text h1{
+  size: 110%;
+}
+
 footer{
  float: left;
  background-color: #282828;
