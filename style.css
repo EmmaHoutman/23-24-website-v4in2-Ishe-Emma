@@ -118,13 +118,14 @@ hr{
   padding-top: 3%;
 }
 
+#centerstage{
+  float: right;
+}
+
 #centerstage img{
   clear: both;
 }
 
-#centerstage{
-  float: right;
-}
 footer{
  float: left;
  background-color: #282828;
