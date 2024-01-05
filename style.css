@@ -109,6 +109,11 @@ article iframe{
   float: right;
 }
 
+hr{
+  color: #005BAA;
+  width: 1%;
+}
+
 #centerstage{
   background-color: white;
   padding-top: 3%;
