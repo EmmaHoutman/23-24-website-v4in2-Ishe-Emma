@@ -123,6 +123,10 @@ hr{
   padding-top: 5%;
 }
 
+centerstage h1{
+  text-align: right;
+}
+
 
 footer{
  float: left;
