@@ -116,11 +116,11 @@ hr{
 .container{
   justify-content: center;
   display: flex;
-
 }
 
 .image{
-  float: left
+  float: left;
+  height: 80%;
 }
 
 .text{
