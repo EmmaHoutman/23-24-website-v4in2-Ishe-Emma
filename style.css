@@ -120,8 +120,7 @@ hr{
 
 #centerstage p{
   float: right;
-  padding-left: 2%;
-}
+  text-align: right;}
 
 #centerstage h1{
 text-align: right;
