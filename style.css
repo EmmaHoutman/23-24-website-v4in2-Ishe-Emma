@@ -122,7 +122,7 @@ hr{
   float: left;
 }
 
-#centerstage p, h1{
+#centerstage{
   float: right;
 }
 footer{
