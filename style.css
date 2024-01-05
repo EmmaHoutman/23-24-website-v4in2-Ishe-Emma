@@ -113,17 +113,20 @@ hr{
   border: 1px solid #005BAA;
 }
 
-#centerstage{
-  background-color: white;
-  padding-top: 3%;
+.container{
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
-#centerstage img{
-  float: right;
+.image{
+  float: left
 }
 
-
-
+.text{
+  float: left;
+  padding-top: 20%;
+}
 footer{
  float: left;
  background-color: #282828;
