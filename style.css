@@ -123,8 +123,8 @@ hr{
   padding-top: 5%;
 }
 
-centerstage h1{
-float: right;
+#centerstage h1{
+text-align: right;
 }
 
 
