@@ -124,6 +124,7 @@ hr{
 
 .text{
   float: left;
+  padding-right: 10%;
 }
 footer{
  float: left;
