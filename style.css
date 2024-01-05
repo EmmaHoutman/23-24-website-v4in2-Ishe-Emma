@@ -115,6 +115,8 @@ hr{
 
 .container{
   justify-content: center;
+  display: flex;
+
 }
 
 .image{
@@ -123,6 +125,7 @@ hr{
 
 .text{
   float: left;
+  padding-right: 30%;
 }
 footer{
  float: left;
