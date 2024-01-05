@@ -110,8 +110,7 @@ article iframe{
 }
 
 hr{
-  color: #005BAA;
-  height: 4%;
+  border: 1% solid #005BAA;
 }
 
 #centerstage{
