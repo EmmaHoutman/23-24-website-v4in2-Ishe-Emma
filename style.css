@@ -118,13 +118,10 @@ hr{
   padding-top: 3%;
 }
 
-#centerstage p{
-  text-align: right;
+#centerstage img{
+  float: right;
 }
 
-#centerstage h1{
-float: right;
-}
 
 
 footer{
