@@ -113,6 +113,10 @@ article h1{
   padding-top: 2%;
 }
 
+centerstage{
+  background-color: white;
+}
+
 footer{
  float: left;
  background-color: #282828;
