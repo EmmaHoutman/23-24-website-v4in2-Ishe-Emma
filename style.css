@@ -79,92 +79,20 @@ article a{
   padding: 1%;
  }
 
- footer{
-  float: left;
-  background-color: #282828;
-  width: 100%;
-  color: white;
-  font-family: Arial, Helvetica, sans-serif;
- }
- 
- footer a{
-  text-decoration: none;
-  color: white;
- }
- 
- footer a:hover{
-  text-decoration: underline;
- }
- 
- #LogoFooter{
-  padding-left: 2.5%;
-  padding-top: 2.5%;
-  width: 5%;
-  height: auto;
-  float: left;
- }
- 
- #ContactFTC{
-  Float: right;
-  text-align: center;
-  padding-top: 2%;
-  padding-right: 10%;
-  padding-bottom: 2%;
- }
- 
- #ContactMakers{
-   float: right;
-   padding-right: 30%;
-   padding-top: 2%;
-   text-align: center;
-  }
- 
-  hr{
-    border: 1px solid #005BAA;
-  }
-
-  
 article{
-  background-color: #FFFFFF;
-  padding-bottom: 5%;
-  float:left;
-  padding-left: 5%;
-  
- }
+ background-color: #FFFFFF;
+ padding-bottom: 5%;
+ float:left;
+ padding-left: 5%;
  
-
-/*HomePage: */
-
-#FrontPageImage{
-  position: relative;
-  text-align: center;
-  color: white;
-  font-weight: bolder;
-}
-
-.top-left {
-  position: absolute;
-  top: 10%;
-  left: 5%; 
-  font-size: 350%;
-}
-
-.bottom-left {
-  position: absolute;
-  bottom: 65%;
-  left: 6%;
-  font-size: 200%;
-
-}
-
-iframe{
- float: right;
- padding-right: 2%;
- padding-left: 2%;
 }
 
 article iframe{
   float: right;
+}
+
+hr{
+  border: 1px solid #005BAA;
 }
 
 .container{
@@ -175,21 +103,53 @@ article iframe{
 
 .image{
   float: left;
-  padding-top: 5%;
 }
 
 .text{
   float: left;
 }
 
-/* Team */
-
-#OverOnsTeam, #Taken{
-text-align: center;
+footer{
+ float: left;
+ background-color: #282828;
+ width: 100%;
+ color: white
 }
 
-/*Stanislas*/
+footer a{
+ text-decoration: none;
+ color: white;
+}
+
 
 #Coach{
   float: left;
 }
+
+footer a:hover{
+ text-decoration: underline;
+}
+
+#LogoFooter{
+ padding-left: 2.5%;
+ padding-top: 2.5%;
+ width: 5%;
+ height: auto;
+ float: left;
+}
+
+#ContactFTC{
+ Float: right;
+ text-align: center;
+ padding-top: 2%;
+ padding-right: 10%;
+ padding-bottom: 2%;
+}
+
+#ContactMakers{
+  float: right;
+  padding-right: 30%;
+  padding-top: 2%;
+  text-align: center;
+ }
+
