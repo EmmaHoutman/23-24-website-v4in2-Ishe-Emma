@@ -192,5 +192,5 @@ text-align: center;
 
 #Coach{
   float: left;
-  position: relative;
+  position: absolute;
 }
