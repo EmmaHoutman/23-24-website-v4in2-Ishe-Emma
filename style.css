@@ -191,5 +191,6 @@ text-align: center;
 /*Stanislas*/
 
 #Coach{
-  float: right;
+  float: left;
+  position: relative;
 }
