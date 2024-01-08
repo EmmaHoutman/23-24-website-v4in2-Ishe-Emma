@@ -16,6 +16,9 @@
 
 /************************* YOUR SETTINGS *************************/
 
+
+/*general */
+
 #wrapper{
   background-color: #005BAA;
  margin: auto;
@@ -64,6 +67,68 @@ a img{
  
 }
 
+article a{
+  text-decoration: none;
+  color: black;
+  background-color: #f47222;
+  padding: 1%;
+ }
+
+ footer{
+  float: left;
+  background-color: #282828;
+  width: 100%;
+  color: white
+ }
+ 
+ footer a{
+  text-decoration: none;
+  color: white;
+ }
+ 
+ footer a:hover{
+  text-decoration: underline;
+ }
+ 
+ #LogoFooter{
+  padding-left: 2.5%;
+  padding-top: 2.5%;
+  width: 5%;
+  height: auto;
+  float: left;
+ }
+ 
+ #ContactFTC{
+  Float: right;
+  text-align: center;
+  padding-top: 2%;
+  padding-right: 10%;
+  padding-bottom: 2%;
+ }
+ 
+ #ContactMakers{
+   float: right;
+   padding-right: 30%;
+   padding-top: 2%;
+   text-align: center;
+  }
+ 
+  hr{
+    border: 1px solid #005BAA;
+  }
+
+  
+article{
+  background-color: #FFFFFF;
+  padding-bottom: 5%;
+  float:left;
+  padding-left: 5%;
+  
+ }
+ 
+
+/*HomePage: */
+
 #FrontPageImage{
   position: relative;
   text-align: center;
@@ -92,28 +157,13 @@ iframe{
  padding-left: 2%;
 }
 
-article a{
- text-decoration: none;
- color: black;
- background-color: #f47222;
- padding: 1%;
-}
 
-article{
- background-color: #FFFFFF;
- padding-bottom: 5%;
- float:left;
- padding-left: 5%;
- 
-}
 
 article iframe{
   float: right;
 }
 
-hr{
-  border: 1px solid #005BAA;
-}
+
 
 .container{
   justify-content: center;
@@ -130,41 +180,8 @@ hr{
   float: left;
 }
 
-footer{
- float: left;
- background-color: #282828;
- width: 100%;
- color: white
-}
+/* Team */
 
-footer a{
- text-decoration: none;
- color: white;
+#PictureTeam{
+height: 70%;
 }
-
-footer a:hover{
- text-decoration: underline;
-}
-
-#LogoFooter{
- padding-left: 2.5%;
- padding-top: 2.5%;
- width: 5%;
- height: auto;
- float: left;
-}
-
-#ContactFTC{
- Float: right;
- text-align: center;
- padding-top: 2%;
- padding-right: 10%;
- padding-bottom: 2%;
-}
-
-#ContactMakers{
-  float: right;
-  padding-right: 30%;
-  padding-top: 2%;
-  text-align: center;
- }
