@@ -157,13 +157,9 @@ iframe{
  padding-left: 2%;
 }
 
-
-
 article iframe{
   float: right;
 }
-
-
 
 .container{
   justify-content: center;
@@ -183,5 +179,5 @@ article iframe{
 /* Team */
 
 .OverOnsTeam{
-  text-align: center;
+text-align: center;
 }
