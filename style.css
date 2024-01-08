@@ -179,6 +179,6 @@ article iframe{
 /* Team */
 
 .OverOnsTeam{
-position: relative;
+clear: both;
 text-align: center;
 }
