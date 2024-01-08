@@ -82,7 +82,8 @@ article a{
   float: left;
   background-color: #282828;
   width: 100%;
-  color: white
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
  }
  
  footer a{
