@@ -198,7 +198,6 @@
     float: left;
   }
 
-  #STTpicture{
-    clear: both;
+  .STTpic{
     float: right;
   }
