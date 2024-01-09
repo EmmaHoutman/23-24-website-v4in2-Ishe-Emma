@@ -161,7 +161,7 @@
   
   }
   
-  iframe, #STTpicture{
+  iframe{
    float: right;
    padding-right: 2%;
    padding-left: 2%;
@@ -196,4 +196,8 @@
   
   #Coach{
     float: left;
+  }
+
+  #STTpicture{
+    float: right;
   }
