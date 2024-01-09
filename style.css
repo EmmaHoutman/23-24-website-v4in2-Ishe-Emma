@@ -128,13 +128,17 @@
   article{
     background-color: #FFFFFF;
     padding-bottom: 5%;
-    float:left;
+    float: left;
     padding-left: 5%;
     
    }
    
    img{
     float: right;
+   }
+
+   ul{
+    list-style-type: circle;
    }
   
   /*HomePage: */
