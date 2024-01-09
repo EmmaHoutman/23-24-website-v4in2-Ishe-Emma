@@ -198,6 +198,10 @@
     float: left;
   }
 
-  .STTpic{
+  #STTpic{
     float: right;
+  }
+  
+  #teksterbij{
+    float: left;
   }
