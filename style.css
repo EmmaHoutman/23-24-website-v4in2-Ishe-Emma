@@ -171,7 +171,12 @@
     float: right;
   }
   
- 
+  .container{
+    justify-content: left;
+    display: flex;
+  
+  }
+  
   .image{
     float: left;
     padding-top: 5%;
