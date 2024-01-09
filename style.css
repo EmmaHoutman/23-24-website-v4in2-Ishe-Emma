@@ -204,5 +204,6 @@
   }
   
   #teksterbij{
+    float: left;
     padding-left: 2%;
   }
