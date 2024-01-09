@@ -199,5 +199,6 @@
   }
 
   #STTpicture{
+    clear: both;
     float: right;
   }
