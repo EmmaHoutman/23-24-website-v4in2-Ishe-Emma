@@ -80,7 +80,7 @@
    }
   
    footer{
-    float: right;
+    float: left;
     background-color: #282828;
     width: 100%;
     color: white;
@@ -97,7 +97,7 @@
    }
    
    #LogoFooter{
-    padding-left: 2.5%;
+    padding-left: 5%;
     padding-top: 2.5%;
     width: 5%;
     height: auto;
