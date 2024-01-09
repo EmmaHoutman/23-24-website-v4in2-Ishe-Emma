@@ -197,12 +197,12 @@
     float: left;
   }
 
-  #STTpic, #tekst{
+  #STTpic{
     float: right;
     padding: 2%;
   }
   
   #teksterbij, #coach{
     float: left;
-    padding-left: 2%;
+    padding: 2%;
   }
