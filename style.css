@@ -161,7 +161,7 @@
   
   }
   
-  iframe{
+  iframe, #STTpicture{
    float: right;
    padding-right: 2%;
    padding-left: 2%;
