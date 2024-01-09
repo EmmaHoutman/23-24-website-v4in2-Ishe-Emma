@@ -197,7 +197,7 @@
     float: left;
   }
 
-  #STTpic{
+  #STTpic, #tekst{
     float: right;
     padding: 2%;
   }
