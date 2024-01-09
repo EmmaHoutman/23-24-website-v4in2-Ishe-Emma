@@ -173,7 +173,7 @@
   
   .container{
     justify-content: left;
-  
+    display: flex;
   }
   
   .image{
@@ -202,7 +202,7 @@
     padding: 2%;
   }
   
-  #teksterbij{
+  #teksterbij, #coach{
     float: left;
     padding-left: 2%;
   }
