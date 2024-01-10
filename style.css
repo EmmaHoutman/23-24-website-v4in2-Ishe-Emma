@@ -220,3 +220,15 @@
     float: left;
     padding: 2%;
   }
+
+  #Alliances{
+    text-align: center;
+  }
+
+  #AlliancesMidden{
+    text-align: center;
+  }
+
+  #AlliancesRechts{
+    text-align: right;
+  }
