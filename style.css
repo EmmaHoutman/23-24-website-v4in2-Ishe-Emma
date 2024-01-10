@@ -156,13 +156,13 @@
     left: 5%; 
     font-size: 350%;
   }
-  
+
   .bottom-left {
     position: absolute;
     bottom: 65%;
     left: 6%;
     font-size: 200%;
-  
+
   }
   
   iframe{
@@ -230,5 +230,5 @@
   }
 
   #AlliancesRechts{
-    text-align: right;
+    float: right;
   }
