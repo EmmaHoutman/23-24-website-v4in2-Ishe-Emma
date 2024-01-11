@@ -220,7 +220,7 @@
 #Alliances{
   float: left;
   padding-left: 50%;
-  display: flex;
+  display: block;
 }
 
   #AlliancesRechts{
