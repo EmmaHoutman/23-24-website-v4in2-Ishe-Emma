@@ -219,7 +219,7 @@
 
 
   #AlliancesRechts{
-    font-weight: bold;
+    float: right;
   }
 
   #AlliancesLinks{
