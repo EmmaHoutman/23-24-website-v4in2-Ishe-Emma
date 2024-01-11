@@ -223,7 +223,7 @@
 
   #AlliancesRechts{
     float: right;
-    padding: 10%;
+    padding-bottom: 10%;
   }
 
   #AlliancesLinks{
