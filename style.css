@@ -220,7 +220,7 @@
 
 
   #AlliancesRechts{
-    float: right;
+    font-weight: bold;
   }
 
   #AlliancesLinks{
