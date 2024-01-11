@@ -217,19 +217,14 @@
     padding: 2%;
   }
 
-#Alliances{
-  float: left;
-  padding-left: 50%;
-  
+#AlliancesMid{
+  float: left; 
+  width: 50%;
 }
 
-  #AlliancesRechts{
-    float: right;
-  
-  }
+
 
   #AlliancesLinks{
-    float: left;
-    padding-left: 3%;
-   
+    float: left; 
+    width: 25%;
   }
