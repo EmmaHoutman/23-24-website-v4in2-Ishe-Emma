@@ -181,6 +181,10 @@
   .text{
     float: left;
   }
+
+  dt{
+   font-weight: bold;
+  }
   
   /* Team */
   
