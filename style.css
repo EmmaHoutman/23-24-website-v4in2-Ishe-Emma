@@ -217,21 +217,19 @@
     padding: 2%;
   }
 
-#AlliancesMid{
+#AlliancesMid, #AlliancesLinks{
   float: left; 
   width: 33%;
+  text-align: center;
 }
 
 
 
-  #AlliancesLinks{
-    float: left; 
-    width: 33.5%;
-  }
 
   #AlliancesRechts{
     float: right;
     width: 33%;
+    text-align: center;
   }
 
   #Alliances{
