@@ -225,9 +225,11 @@
 
   #AlliancesRechts{
     float: right;
+    display: block;
   }
 
   #AlliancesLinks{
     clear: both;
     padding-left: 3%;
+    display: block;
   }
