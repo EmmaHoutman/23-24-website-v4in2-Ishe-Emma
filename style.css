@@ -220,11 +220,11 @@
 #Alliances{
   float: left;
   padding-left: 50%;
+  display: flex;
 }
 
   #AlliancesRechts{
     float: right;
-    
   }
 
   #AlliancesLinks{
