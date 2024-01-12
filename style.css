@@ -198,12 +198,12 @@
     float: left;
   }
 
-  #STTpic{
+  .STTpic{
     float: right;
     padding: 2%;
   }
   
-  #teksterbij{
+  .teksterbij{
     float: left;
     padding-top: 1%;
     padding-left: 2%;
