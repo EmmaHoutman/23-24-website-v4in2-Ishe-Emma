@@ -311,8 +311,17 @@
   #teksterbij{
     padding-left: 2%;
     background-color: #92BBD3;
-    padding-bottom: 2%;
+    padding-bottom: 3%;
     padding-top: .5%;
+  }
+
+  #teksterbij a{
+    text-decoration: none;
+    color: black;
+    background-color: #f47222;
+    padding: .5%;
+    font-weight: bold;
+  
   }
 
 
