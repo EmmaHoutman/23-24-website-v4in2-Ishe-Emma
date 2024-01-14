@@ -207,9 +207,13 @@
   }
   
   /*Stanislas*/
-  
- .STTpic{
-  float: left;
+  #fotoKoote{
+    float: left;
+    padding: 1%;
+  }
+ 
+  .STTpic{
+  float: right;
   padding: 1%;
  }
 
