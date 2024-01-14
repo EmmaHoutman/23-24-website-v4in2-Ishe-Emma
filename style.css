@@ -144,12 +144,18 @@
     position: absolute;
     top: 10%;
     left: 5%; 
-    font-size: 100px;
+    font-size: 400%;
+  }
+  
+  .top-left i{
+    font-size: 60%;
+    left: 1%;
+
   }
 
   .bottom-left {
     position: absolute;
-    bottom: 65%;
+    bottom: 70%;
     left: 6%;
     font-size: 200%;
 
