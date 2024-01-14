@@ -185,10 +185,20 @@
   
   /* Team */
   
-  #OverOnsTeam, #Taken{
+  #OverOnsTeam {
   text-align: center;
   padding-left: 3%;
   padding-right: 3%;
+  
+  }
+
+  #Taken{
+    text-align: center;
+    padding-left: 3%;
+    padding-right: 3%;
+    background-color: #FAC09C;
+    padding-top: .1%;
+    padding-bottom: .1%;
   }
   
   /*Stanislas*/
