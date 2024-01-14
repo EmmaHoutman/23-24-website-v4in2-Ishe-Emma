@@ -120,9 +120,9 @@
 
     article{
       background-color: #FFFFFF;
-      padding-bottom: 5%;
+      padding-bottom: 3%;
       float: left;
-      padding-left: 5%;
+      padding-left: 2%;
      
      }
 
@@ -157,26 +157,24 @@
   
   iframe{
    float: right;
-   padding-right: 2%;
-   padding-left: 2%;
+   padding: 2%;
   }
   
   article iframe{
     float: right;
   }
   
-  .container{
-    justify-content: left;
-    display: flex;
-  }
+
   
   .image{
     float: left;
-    padding-top: 5%;
+    padding: 2%;
   }
   
-  .season{
-    float: left;
+  .Season{
+    background-color: #FFFFFF;
+    padding-left: 1%;
+    padding-top: .1%;
   }
 
   dt{
@@ -203,25 +201,17 @@
   
   /*Stanislas*/
   
-  #Coach{
-    float: left;
-  }
+ .STTpic{
+  float: left;
+  padding: 1%;
+ }
 
-  .STTpic{
-    float: right;   
-    margin: 1%;
-    }
+
 
     #teekst{
       padding-left: 2%;
     }
-  
-  #teksterbij{
-    padding-left: 2%;
-    background-color: #92BBD3;
-    padding-bottom: 2%;
-    padding-top: .5%;
-  }
+ 
   
 #titeel{
   background-color: #92BBD3;
@@ -229,15 +219,6 @@
   padding-bottom: .1%;
   padding-left: 1%;
 }
-
-  .tekst{
-    padding-top: 1%;
-  }
-
-  .FotoLinks{
-    float: left;
-    padding: 2%;
-  }
 
 .Mid, .Links{
   float: left; 
@@ -274,7 +255,7 @@
   }
 
   table {
-    border: 2px solid black;
+    border: 1px solid black;
     border-collapse: collapse;
  }
   
@@ -289,9 +270,13 @@
   background-color:white;
 }
 
+
 #LM1Foto{
   float: left;
-  margin: 1%;
+  margin-top: 4.5%;
+  margin-bottom: 1%;
+  margin-left: 1%;
+  margin-right: 1%;
 }
 
 #LM1{
@@ -302,13 +287,22 @@
   padding-bottom:2% ;
 }
 
+.Kickoff{
+  float: right;   
+  margin: 4%;
+  }
+
+ 
+  #teksterbij{
+    padding-left: 2%;
+    background-color: #92BBD3;
+    padding-bottom: 2%;
+    padding-top: .5%;
+  }
 
 
 
-
-
-
-
+/* slideshow */
 
 
 
