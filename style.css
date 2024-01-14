@@ -273,8 +273,13 @@
     padding: 1%;
   }
 
- table{
-  border: 1px solid black;
+  table {
+    border: 2px solid black;
+    border-collapse: collapse;
+ }
+  
+ td {
+    border: 1px solid black;
  }
 /* Competitie */
 
