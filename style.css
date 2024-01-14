@@ -47,6 +47,7 @@
     padding-top: none;
     
   }
+
   
   nav a:hover{
    text-decoration: underline  #005BAA;
@@ -186,6 +187,8 @@
   
   #OverOnsTeam, #Taken{
   text-align: center;
+  padding-left: 3%;
+  padding-right: 3%;
   }
   
   /*Stanislas*/
@@ -229,6 +232,8 @@
 
 #Inleiding{
   text-align: center;
+  padding-left: 2%;
+  padding-right: 2%;
 }
 
 #LM1Foto{
