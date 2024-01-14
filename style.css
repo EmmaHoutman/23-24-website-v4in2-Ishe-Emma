@@ -246,10 +246,22 @@
     font-weight: bold;
   }
 
-  #security{
-    text-align: center;
+  #security p{
+    padding-bottom: 2%;
   }
 
+
+  #security{
+    text-align: center;
+    padding-bottom: 2%;
+  }
+
+ #security a{
+  text-decoration: none;
+    color: black;
+    background-color: #f47222;
+    padding: 1%;
+  }
 /* Competitie */
 
 #Inleiding{
